@@ -5,3 +5,5 @@
 2.[一文讀懂網管協議 – SNMP，NETCONF，RESTCONF](https://codingnote.cc/zh-tw/p/329134/)
 
 3.[Netconf學習筆記](https://cshihong.github.io/2019/12/29/Netconf%E5%8D%8F%E8%AE%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/#Netconf%E6%A0%87%E5%87%86%E8%83%BD%E5%8A%9B%EF%BC%9A)
+
+4.[Configure NETCONF/YANG and Validate Example for Cisco IOS XE 16.x Platforms](https://www.cisco.com/c/en/us/support/docs/storage-networking/management/200933-YANG-NETCONF-Configuration-Validation.html)
